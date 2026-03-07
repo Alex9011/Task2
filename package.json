@@ -5,10 +5,10 @@
   "main": "src/index.js",
   "files": [
     "src",
-    "labaa1.js"
+    "task1-demo.js"
   ],
   "scripts": {
-    "start": "node labaa1.js",
+    "start": "node task1-demo.js",
     "example": "npm --prefix example run start",
     "test": "echo \"No tests yet\""
   },
